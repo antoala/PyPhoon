@@ -1,5 +1,2 @@
-# PyPhoon
-Upgrading Python skills at typhoon speeds
-
-https://projectgurukul.org/python-rock-paper-scissors-game/
+This is a project for getting comfortable with using Python classes and packages.
 
